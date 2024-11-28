@@ -1,0 +1,46 @@
+
+#f-from{
+    display: block;
+}
+
+.f-body {
+    margin: 0;
+    line-height: 1.5;
+    padding: 30px;
+    color: white;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    max-width: 100%;
+}
+
+
+
+.f-form-ctl {
+    display: block;
+    width: 95%;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.5;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    outline: none;
+    border-radius: 0.25rem;
+
+}
+
+
+#f-button{
+    display: block;
+    width: 98%;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.5;
+    background-color: green;
+    color: white;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    outline: none;
+    border-radius: 0.25rem;
+    font: optional;
+}
+
+
